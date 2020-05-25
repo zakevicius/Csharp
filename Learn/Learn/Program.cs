@@ -2,6 +2,7 @@
 using Learn.Loops;
 using Learn.Arrays;
 using Learn.Lists;
+using Learn.Strings;
 
 namespace Learn
 {
@@ -27,7 +28,12 @@ namespace Learn
             // ListReverseString.Init();
             // ListSortFiveUniqueNumbers.Init();
             // ListUniqueNumbersInArray.Init();
-            ListThreeSmallestNumbersInStringOfFive.Init();
+            // ListThreeSmallestNumbersInStringOfFive.Init();
+            // AreNumbersConsecutive.Init();
+            // AreThereDuplicates.Init();
+            // IsTimeValid.Init();
+            // ChangeToPascalCase.Init();
+            CountTheVowels.Init();
         }
     }
 }
